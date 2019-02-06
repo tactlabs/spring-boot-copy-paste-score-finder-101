@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-boot-copy-paste-score-finder-101.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-boot-copy-paste-score-finder-101)
+
 # spring-base-rest
 Spring Boot REST Boilerplate Project
 
